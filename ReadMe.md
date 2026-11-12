@@ -10,6 +10,7 @@ Computer Science @ University of Minnesota | Aspiring Software Engineer | C/C++,
 
 # Projects:
 [The Arena: Robotics Simulator](https://hub.docker.com/r/mai00082/terrain_sim)
+
 [A World Made of Drawings](https://csci-4611-spring-2026.github.io/assignment-06-a-world-made-of-drawings-mai00082/)
 
 [Artistic Rendering](https://csci-4611-spring-2026.github.io/assignment-05-artistic-rendering-mai00082-1/)
